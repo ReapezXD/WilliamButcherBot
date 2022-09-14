@@ -49,7 +49,7 @@ __HELP__ = """[UPVOTE] - Use upvote keywords like "+", "+1", "thanks" etc to upv
 Reply to a message with /karma to check a user's karma
 Send /karma without replying to any message to check karma list of top 10 users"""
 
-regex_upvote = r"^(\+|\+\+|\+1|thx|tnx|ty|thank you|thanx|thanks|pro|cool|good|👍|\+\+ .+)$"
+regex_upvote = r"^(\+|\+\+|\+1|thx|tnx|ty|thank you|thanx|thanks|pro|cool|noice|nice|pero|clutch|good|👍|\+\+ .+)$"
 regex_downvote = r"^(-|--|-1|👎|-- .+)$"
 
 
